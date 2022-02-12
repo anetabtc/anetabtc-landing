@@ -34,35 +34,35 @@ export default function Home() {
       <main className="team_back">
       
 <div className="ank">
-      <img src={'/light/angel1.svg'}  width="402px" height="402px" className="ank1"/>
-      <img src={'/light/bubble.svg'}  width="402px" height="402px" className="ank3"/>
-      <img src={'/light/angel2.svg'}  width="400px" height="400px" className="ank2"/></div>
+      <img src={'/anetabtc-landing/light/angel1.svg'}  width="402px" height="402px" className="ank1"/>
+      <img src={'/anetabtc-landing/light/bubble.svg'}  width="402px" height="402px" className="ank3"/>
+      <img src={'/anetabtc-landing/light/angel2.svg'}  width="400px" height="400px" className="ank2"/></div>
           <div className="team_block"><h1>Meet our Team.</h1>
 <div className="grid_team"> 
 
 <div className="list_team">
-<img src={'/avatar/austin.png'} /><p />
+<img src={'/anetabtc-landing/avatar/austin.png'} /><p />
 <h3><em>Austin Negron</em></h3><br />CEO<p >Computer Engineering Boston University</p>
  </div>
-<div className="list_team"> <img src={'/avatar/talgat.png'} /><p /><h3>Talgat Manglayev</h3><br />Lead Engineer<p >Ph.D. Nazarbayev University Postdoctoral Researcher at University of Helsinki</p > </div>
-<div className="list_team"> <img src={'/avatar/willie.png'} /><p /><h3><em>Willie Mclinton</em></h3><br />Lead Researcher<p >Ph.D. MIT AI and Robotics Google AI Resident Researcher</p ></div>
-<div className="list_team"><img src={'/avatar/margie.png'} /> <p /><h3><em>Marguerite Blair</em></h3><br />Security software<p >Security and Software Engineer Citizens Bank</p ></div>
-<div className="list_team"> <img src={'/avatar/robert.png'} /><p /><h3><em>Robert Ohr</em></h3><br />Chairman<p >Lehman Brothers Columbia University</p ></div>
-<div className="list_team"> <img src={'/avatar/aibek.png'} /><p /><h3><em>Aibek Tleuliyev</em></h3><br />Lead Security Engineer<p >Ballistic and Navigation Support of the Mission Control Center</p ></div>
-<div className="list_team"> <img src={'/avatar/dair.png'} /><p /><h3><em>Dair Alayev</em></h3><br />Back-end Developer<p >Astana IT University</p ></div>
-<div className="list_team"> <img src={'/avatar/max.png'} /><p /><h3><em>Max Ward</em></h3><br />UI/UX<p>Boston University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/talgat.png'} /><p /><h3>Talgat Manglayev</h3><br />Lead Engineer<p >Ph.D. Nazarbayev University Postdoctoral Researcher at University of Helsinki</p > </div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/willie.png'} /><p /><h3><em>Willie Mclinton</em></h3><br />Lead Researcher<p >Ph.D. MIT AI and Robotics Google AI Resident Researcher</p ></div>
+<div className="list_team"><img src={'/anetabtc-landing/avatar/margie.png'} /> <p /><h3><em>Marguerite Blair</em></h3><br />Security software<p >Security and Software Engineer Citizens Bank</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/robert.png'} /><p /><h3><em>Robert Ohr</em></h3><br />Chairman<p >Lehman Brothers Columbia University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/aibek.png'} /><p /><h3><em>Aibek Tleuliyev</em></h3><br />Lead Security Engineer<p >Ballistic and Navigation Support of the Mission Control Center</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h3><em>Dair Alayev</em></h3><br />Back-end Developer<p >Astana IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/max.png'} /><p /><h3><em>Max Ward</em></h3><br />UI/UX<p>Boston University</p ></div>
 
-<div className="list_team"> <img src={'/avatar/dair.png'} /><p /><h5><em>Darkhan Baibulat</em><br />Developer</h5><p >Astana IT University</p ></div>
-<div className="list_team"> <img src={'/avatar/dair.png'} /><p /><h5><em>Olzhas Abdykalykov </em><br />Developer</h5><p >Astana IT University</p ></div>
-<div className="list_team"> <img src={'/avatar/dair.png'} /><p /><h5><em>Kalbek Saduakassov</em><br />Developer</h5><p >Astana IT University</p ></div>
-<div className="list_team"> <img src={'/avatar/dair.png'} /><p /><h5><em>Aisha Kozhamseitova</em><br />Developer</h5><p>Astanta IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Darkhan Baibulat</em><br />Developer</h5><p >Astana IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Olzhas Abdykalykov </em><br />Developer</h5><p >Astana IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Kalbek Saduakassov</em><br />Developer</h5><p >Astana IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Aisha Kozhamseitova</em><br />Developer</h5><p>Astanta IT University</p ></div>
 </div>
 <div className="grid_team_2">
-<div className="list_team2"> <img src={'/avatar/hayato.png'} />
+<div className="list_team2"> <img src={'/anetabtc-landing/avatar/hayato.png'} />
 <h5><em>Hayato Gin Kawai</em><br />Graphic Design</h5><p >gallerialovelace.io</p></div>
-<div className="list_team2"> <img src={'/avatar/nathan.png'} />
+<div className="list_team2"> <img src={'/anetabtc-landing/avatar/nathan.png'} />
 <h5><em>Nathan Baskin</em><br />KYC/AML</h5><p >Silicon Valley Bank Santander Bank</p></div>       
-<div className="list_team2"> <img src={'/avatar/georgina.png'} />
+<div className="list_team2"> <img src={'/anetabtc-landing/avatar/georgina.png'} />
 <h5><em>Georgina Alcala</em><br />Personal Relations</h5><p >Boston University</p></div>   
 
 </div>
@@ -74,7 +74,7 @@ export default function Home() {
 
 <div className="grid_footer_2">
 
-<div className="foot1"><img src={'/light/logoAneta.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
+<div className="foot1"><img src={'/anetabtc-landing/light/logoAneta.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
 
 <div className="foot2"><ul><b>anetaBTC</b> 
 <li><a href="/users/123" class="active">Team</a></li>
@@ -99,10 +99,10 @@ export default function Home() {
 
 <div className="foot5">
 <div className="imgconf">
-<img src={'/icons/discord.svg'} />
-<img src={'/icons/twitter.svg'} />
-<img src={'/icons/medium.svg'} />
-<img src={'/icons/telegram.svg'} />
+<img src={'/anetabtc-landing/icons/discord.svg'} />
+<img src={'/anetabtc-landing/icons/twitter.svg'} />
+<img src={'/anetabtc-landing/icons/medium.svg'} />
+<img src={'/anetabtc-landing/icons/telegram.svg'} />
 </div>
 
 <b>

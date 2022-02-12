@@ -20,13 +20,13 @@ function HomepageHeader() {
       <div className="grid_label">
 <div className="box1"><h1>Decentralized,<br /> On-Chain Wrapped Bitcoin.</h1>
 <h5>Fully On-chain Bitcoin on Ergo and Cardano.</h5>
-<div className="imgSet"><img src={'/imgphoto/discord.svg'} />
-<img src={'/imgphoto/twitter.svg'} />
-<img src={'/imgphoto/medium.svg'} />
-<img src={'/imgphoto/telegramwh.svg'} /></div>
+<div className="imgSet"><img src={'/anetabtc-landing/imgphoto/discord.svg'} />
+<img src={'/anetabtc-landing/imgphoto/twitter.svg'} />
+<img src={'/anetabtc-landing/imgphoto/medium.svg'} />
+<img src={'/anetabtc-landing/imgphoto/telegramwh.svg'} /></div>
 
  </div>
-<div className="box2"><img src={'/img/angel3.svg'} /></div>
+<div className="box2"><img src={require('/anetabtc-landing/img/angel3.svg')} /></div>
       </div>
        
     </header>
@@ -44,21 +44,21 @@ export default function Home() {
           <HomepageHeader />
       <main>
       <div className="ank">
-      <img src={'/light/bubble.svg'}  width="400px" height="302px" className="ank4"/>
-      <img src={'/light/bubble.svg'}  width="350px" height="252px" className="ank5"/></div>
+      <img src={'/anetabtc-landing/light/bubble.svg'}  width="400px" height="302px" className="ank4"/>
+      <img src={'/anetabtc-landing/light/bubble.svg'}  width="350px" height="252px" className="ank5"/></div>
  <div className="textSh1">
 <h1>Decentralized, On Chain BTC</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano</p>
  </div>
           <div className="section1"> 
         <div className="guides">
 <div className="guide1"><div  className="imgSave">
-<img src={'/img/f1.svg'}/> </div><p><h3>Wrap Bitcoin on Ergo and Cardano</h3></p><p>Guaranteed and verifiable through transparent and accessible smart contracts. </p>
+<img src={'/anetabtc-landing/img/f1.svg'}/> </div><p><h3>Wrap Bitcoin on Ergo and Cardano</h3></p><p>Guaranteed and verifiable through transparent and accessible smart contracts. </p>
  </div>
 <div className="guide1"><div  className="imgSave">
-<img src={'/img/f2.svg'} /></div><p><h3>Security and Privacy</h3></p><p>Leverage built-in privacy and security tools of the most decentralized blockchains. </p>
+<img src={'/anetabtc-landing/img/f2.svg'} /></div><p><h3>Security and Privacy</h3></p><p>Leverage built-in privacy and security tools of the most decentralized blockchains. </p>
  </div>
 <div className="guide1"> <div  className="imgSave">
-<img src={'/img/f3.svg'} /></div><p><h3>Research-driven</h3></p><p>A meticulous approach, ensuring correctness with constant oversight and testing.</p>
+<img src={'/anetabtc-landing/img/f3.svg'} /></div><p><h3>Research-driven</h3></p><p>A meticulous approach, ensuring correctness with constant oversight and testing.</p>
 </div>
         </div>
           </div>
@@ -67,9 +67,9 @@ export default function Home() {
           <div className="textSh3"><h1>Our partners</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano</p></div>
        <div className="section1"> 
         <div className="guides">
-<div className="guide"><img src={'/imgphoto/ergodex.svg'} /></div>
-<div className="guide"> <img src={'/imgphoto/kyberswap.svg'} /></div>
-<div className="guide"><img src={'/imgphoto/minswap.svg'} /> </div>
+<div className="guide"><img src={'/anetabtc-landing/imgphoto/ergodex.svg'} /></div>
+<div className="guide"> <img src={'/anetabtc-landing/imgphoto/kyberswap.svg'} /></div>
+<div className="guide"><img src={'/anetabtc-landing/imgphoto/minswap.svg'} /> </div>
         </div>
           </div>
           <div className="block2"> 
@@ -84,10 +84,10 @@ export default function Home() {
 
 <div className="grid_footer">
 
-<div className="foot1"><img src={'/img/footerlogo.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
+<div className="foot1"><img src={'/anetabtc-landing/img/footerlogo.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
 
 <div className="foot2"><ul><b>anetaBTC</b> 
-<li><a href="/team" class="active">Team</a></li>
+<li><a href="/anetabtc-landing/team" class="active">Team</a></li>
 <li><a href="/users/123" class="active">Docs</a></li>
 <li><a href="/users/123" class="active">News & Updates</a></li>
 <li><a href="/users/123" class="active">FAQ</a></li>
@@ -109,10 +109,10 @@ export default function Home() {
 
 <div className="foot5">
 <div className="imgconf">
-<img src={'/icons/discord.svg'} />
-<img src={'/icons/twitter.svg'} />
-<img src={'/icons/medium.svg'} />
-<img src={'/icons/telegram.svg'} />
+<img src={'/anetabtc-landing/icons/discord.svg'} />
+<img src={'/anetabtc-landing/icons/twitter.svg'} />
+<img src={'/anetabtc-landing/icons/medium.svg'} />
+<img src={'/anetabtc-landing/icons/telegram.svg'} />
 </div>
 
 <b>
