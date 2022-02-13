@@ -18,15 +18,15 @@ function HomepageHeader() {
 
     <header className={clsx('hero hero--primary kek1', styles.heroBanner)}>
       <div className="grid_label">
-<div className="box1"><h1>Decentralized,<br /> On-Chain Wrapped Bitcoin.</h1>
-<h5>Fully On-chain Bitcoin on Ergo and Cardano.</h5>
+<div className="box1"><h1> Decentralized,<br /> On-Chain Wrapped Bitcoin.</h1>
+<p>Fully On-chain Bitcoin on Ergo and Cardano.</p>
 <div className="imgSet"><img src={'/anetabtc-landing/imgphoto/discord.svg'} />
 <img src={'/anetabtc-landing/imgphoto/twitter.svg'} />
 <img src={'/anetabtc-landing/imgphoto/medium.svg'} />
 <img src={'/anetabtc-landing/imgphoto/telegramwh.svg'} /></div>
 
  </div>
-<div className="box2"><img src={require('/anetabtc-landing/img/angel3.svg')} /></div>
+<div className="box2"><img src={'/anetabtc-landing/img/angel3.svg'} /></div>
       </div>
        
     </header>
@@ -52,23 +52,25 @@ export default function Home() {
           <div className="section1"> 
         <div className="guides">
 <div className="guide1"><div  className="imgSave">
-<img src={'/anetabtc-landing/img/f1.svg'}/> </div><p><h3>Wrap Bitcoin on Ergo and Cardano</h3></p><p>Guaranteed and verifiable through transparent and accessible smart contracts. </p>
+<img src={'/anetabtc-landing/img/f1.svg'}/> </div><p><b>Wrap Bitcoin on Ergo and Cardano</b></p><p>Guaranteed and verifiable through transparent and accessible smart contracts. </p>
  </div>
 <div className="guide1"><div  className="imgSave">
-<img src={'/anetabtc-landing/img/f2.svg'} /></div><p><h3>Security and Privacy</h3></p><p>Leverage built-in privacy and security tools of the most decentralized blockchains. </p>
+<img src={'/anetabtc-landing/img/f2.svg'} /></div><p><b>Security and Privacy</b></p><p>Leverage built-in privacy and security tools of the most decentralized blockchains. </p>
  </div>
 <div className="guide1"> <div  className="imgSave">
-<img src={'/anetabtc-landing/img/f3.svg'} /></div><p><h3>Research-driven</h3></p><p>A meticulous approach, ensuring correctness with constant oversight and testing.</p>
+<img src={'/anetabtc-landing/img/f3.svg'} /></div><p><b>Research-driven</b></p><p>A meticulous approach, ensuring correctness with constant oversight and testing.</p>
 </div>
         </div>
           </div>
 
           <div class="block3"></div>
-          <div className="textSh3"><h1>Our partners</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano</p></div>
+          <div className="textSh3"><h1>Our partners</h1><p>Learn more about our partners who are contributing to decentralized finance.</p></div>
        <div className="section1"> 
         <div className="guides">
-<div className="guide"><img src={'/anetabtc-landing/imgphoto/ergodex.svg'} /></div>
-<div className="guide"> <img src={'/anetabtc-landing/imgphoto/kyberswap.svg'} /></div>
+<div className="guide"><img src={'/anetabtc-landing/imgphoto/ergodex.svg'}/>
+
+</div>
+<div className="guide"><img src={'/anetabtc-landing/imgphoto/kyberswap.svg'}  className="kyberswap" /></div>
 <div className="guide"><img src={'/anetabtc-landing/imgphoto/minswap.svg'} /> </div>
         </div>
           </div>
@@ -84,10 +86,10 @@ export default function Home() {
 
 <div className="grid_footer">
 
-<div className="foot1"><img src={'/anetabtc-landing/img/footerlogo.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
+<div className="foot1"><img src={'/anetabtc-landing/img/footerlogo.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlock the value on their Bitcoin on Ergo and Cardano.</div>
 
 <div className="foot2"><ul><b>anetaBTC</b> 
-<li><a href="/anetabtc-landing/team" class="active">Team</a></li>
+<li><a href="/team" class="active">Team</a></li>
 <li><a href="/users/123" class="active">Docs</a></li>
 <li><a href="/users/123" class="active">News & Updates</a></li>
 <li><a href="/users/123" class="active">FAQ</a></li>

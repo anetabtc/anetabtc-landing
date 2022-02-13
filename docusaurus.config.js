@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Decentralized, On Chain Wrapped Bitcoin',
-  tagline: 'Fully On-chain Bitcoin on Ergo and Cardano.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  title: 'anetaBTC',
+  tagline: 'Wrapped BTC on Ergo & Cardano',
+  url: 'https://anetabtc.github.io',
+  baseUrl: '/anetabtc-landing/',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'anetaBTC', // Usually your GitHub org/user name.
-  projectName: 'anetaBTC', // Usually your repo name.
+  organizationName: 'anetabtc', // Usually your GitHub org/user name.
+  projectName: 'anetabtc-landing', // Usually your repo name.
 
   presets: [
     [

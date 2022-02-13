@@ -17,6 +17,11 @@
   --ifm-code-font-size: 95%;
 }
 
+@font-face {
+  font-family: 'Avenir Next';
+  src: url("http://www.yoursite.com/fonts/Avenir_Next.otf"); /* File to be stored at your site */
+  }
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
@@ -35,13 +40,17 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 html[data-theme='light'] header.kek1  {
-  height: 920px;
+  height: 1120px;
  background: linear-gradient(to bottom, transparent, #fff),  url(/img/anetaBackground.jpg);
-
+ background-repeat: no-repeat;
+-webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
 }
 
 html[data-theme='dark'] header.kek1  {
-  height: 920px;
+  height: 1120px;
 background: linear-gradient(to bottom, transparent, #18191a),  url(/dark/dark_back.png);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
@@ -139,7 +148,7 @@ height: 250px;
 
 
 div.block2 {
-  margin-top: 50px;  
+  margin-top: 170px;  
 }
 
 div.col.kek1 {
@@ -164,7 +173,7 @@ div.col.kek2 {
 }
 
 div.block3 {
-  margin-top: 100px;
+  margin-top: 170px;
 }
 
 div.row.kek2 { 
@@ -191,12 +200,12 @@ padding: 0 5rem 3rem;
 }
 
 html[data-theme='light'] header .box1 > h1 {
-  display: flex;
+
 font-size: 55px;
 text-align: left;
    background: -webkit-linear-gradient(45deg, #34708d 66%, #46729b 33%);
   -webkit-background-clip: text;
-
+font-family: "Avenir Next" !important;
   -webkit-text-fill-color: transparent;
 
   line-height: 62px;
@@ -204,26 +213,31 @@ text-align: left;
 
 
 html[data-theme='dark'] header .box1 > h1 {
-  display: flex;
+  
 font-size: 55px;
 text-align: left;
    background: -webkit-linear-gradient(45deg, #F0A5A4 33%, #9BB3F2 66%);
+   background: -webkit-linear(45deg, #F0A5A4 33%, #9BB3F2 66%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-family: "Avenir Next" !important;
+  text-shadow: 0px 0px #00000000;
   line-height: 62px;
 }
 
-html[data-theme='dark'] header .box1 > h5 {
+html[data-theme='dark'] header .box1 > p {
   display: flex;
-  font-size: 20px;
+  font-size: 25px;
   text-align: left;
+  font-family: "Avenir Next" !important;
   color: #fff;
   
 
 }
-html[data-theme='light'] header .box1 > h5 {
+html[data-theme='light'] header .box1 > p {
+  font-family: "Avenir Next" !important;
   display: flex;
-  font-size: 20px;
+  font-size: 25px;
   text-align: left;
   color: #002030;
 
@@ -261,13 +275,15 @@ div.textSh3 > h1{
    background: linear-gradient(45deg, #eda6a7 33%, #9cb4f1 66%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  padding: 0 5rem 1rem;
+  padding: 0 7rem 0;
+  font-family: "Avenir Next" !important;
 }
 
 div.textSh3 > p {
   font-size: 20px ;
   color: #787d80;
-  padding: 0 5rem 0.5rem;
+  font-family: "Avenir Next" !important;
+  padding: 0 7rem 0rem;
 
 }
 
@@ -275,6 +291,7 @@ footer .grid_footer {
   display: grid;
   grid-template-columns: 2fr 2fr 2fr 1fr 2fr;
   grid-template-rows: 1fr;
+  font-family: "Avenir Next" !important;
 
 }
 
@@ -354,12 +371,7 @@ html[data-theme='dark'] footer li {
   margin-top: 50px;
 }
 
-.toggleTrack {
-  width: 50px;
-  height: 24px;
-  border-radius: 30px;
-  transition: all 0.2s ease;
-}
+
 
 
 .toggleTrack_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
@@ -368,7 +380,7 @@ html[data-theme='dark'] footer li {
 }
 
 html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
-background-image: url(/icons/moon.svg);
+background-image: url(/anetabtc-landing/icons/moon.svg);
 width: 30px;
 height: 30px;
 background-size: 30px;                   
@@ -376,7 +388,7 @@ margin-right: 10px;
 }
 
 html[data-theme='light'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
-background-image: url(/icons/sun.svg);
+background-image: url(/anetabtc-landing/icons/sun.svg);
 width: 28px;
 height: 33px;
 background-size: 28px;
@@ -540,16 +552,16 @@ right: 1100px;
 
 .ank4 {
 position: absolute;
-top: 2150px;
-opacity: 0.256;
+top: 2450px;
+opacity: 0.656;
 right: 1080px; 
 }
 
 .ank5 {
 position: absolute;
 display: block;
-top: 2700px;
-opacity: 0.256;
+top: 3300px;
+opacity: 0.656;
 left: 1070px; 
 }
 
@@ -559,38 +571,42 @@ left: 1070px;
 
 .guides {
     display: grid;
-    padding: 0 5rem 3rem;
+    padding: 0 7rem 3rem;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     
-    gap: 2.5rem;
+    gap: 4rem;
 
 }
 
 .guide {
-    border: 1px solid var(--ifm-toc-border-color);
+    
     color: var(--ifm-font-color-base);
     cursor: pointer;
     border-radius: 16px;
     text-decoration: none !important;
-    padding: 1rem 0 !important;
+    padding: 5rem 0 !important;
     box-shadow: 0px 0px 99px rgba(118,118,118,0.16);
-height: 1fr;
+height: 2fr;
  align-items: center;
     display: flex;
     justify-content: center;
 }
 
 .guide1 {
-    border: 1px solid var(--ifm-toc-border-color);
+   
     color: var(--ifm-font-color-base);
     cursor: pointer;
     border-radius: 16px;
     text-decoration: none !important;
     padding: 1rem 0 !important;
     box-shadow: 0px 0px 99px rgba(118,118,118,0.16);
-height: 1fr;
+height: 2fr;
 
+}
+
+.guide1 > p > b {
+  font-size: 18px;
 }
 
 .imgSave { align-items: center;
@@ -599,20 +615,21 @@ height: 1fr;
 }
 
 .imgSave > img{
-width: 220px;
-height: 220px; 
+width: 301px;
+
+height: 301px; 
 }
 
-.guide1 > img {
-  height: 200px;
-    width: 200px;
 
-}
 
 .guide > img {
   height: 300px;
     width: 300px;
 
+}
+
+html[data-theme='light'] .guide > img {
+  filter: invert(1);
 }
 
 .guide1 > p {
@@ -622,6 +639,15 @@ height: 220px;
    text-align: center;
    margin: 25px;
 
+}
+
+.guide > p {
+  
+  align-items: center;
+   justify-content: center;
+   display: flex;
+   text-align: center;
+   margin: 25px;
 }
 
 .guide1 > b {
@@ -641,6 +667,7 @@ height: 220px;
 @media (max-width: 668px) {
     .guides
     {
+font-family: "Avenir Next" !important;
         grid-template-rows: 1fr 1fr 1fr ;
         grid-template-columns: 1fr;
         padding: 20px;
@@ -653,9 +680,11 @@ height: 220px;
     footer .grid_footer {
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-    }
-    footer .foot1 {
 
+font-family: "Avenir Next" !important;
+    }
+    footer .foot1 > img{
+      width: 250px;
     }
 
     footer .foot2 {
@@ -668,7 +697,7 @@ height: 220px;
     padding: 0px;
     }
     footer .foot4 {
-margin: 0px;
+    margin: 0px;
     padding: 0px;
 }
 
@@ -676,6 +705,7 @@ margin: 0px;
     text-align: left;
     margin: 20px;
     padding: 0px;
+
     }
 
     header .box2 {
@@ -689,19 +719,36 @@ margin: 0px;
       display: none;
     }
 
-    .textSh1  {
+  div  .textSh1  {
       padding: 25px;
     }
-    .textSh1 > h1 {
-      font-size: 40px;
+   div .textSh1 > h1 {
+      font-size: 38px;
     }
-
-    .textSh3 {
+    div .textSh1 > p {
+      font-size: 18px;
+    }
+.textSh3 {
+line-height: 1.5;
+       
+}
+    div.textSh3 > h1{
       text-align: center;
-      font-size: 1fr;
+      font-size: 38px;
+      padding: 0;
     } 
+    div.textSh3 > p{
+      text-align: center;
+      font-size: 18px;
+      padding: 25px;
+     
+    } 
+
+
 header .grid_label {
 display: grid;
+
+font-family: "Avenir Next" !important;
 grid-template-columns: 1fr;
 grid-template-rows: 1fr;
         padding: 0;
@@ -715,17 +762,23 @@ h1.box1 {
  footer .grid_footer_2 {
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+
+font-family: "Avenir Next" !important;
     }
 
   main .grid_team {
     grid-template-rows: 1fr ;
         grid-template-columns: 1fr;
+
+font-family: "Avenir Next" !important;
         padding:  0px;
   }
 
   main .grid_team_2 {
     grid-template-rows: 1fr ;
         grid-template-columns: 1fr;
+
+font-family: "Avenir Next" !important;
       padding: 0 0;
   }
   
@@ -744,6 +797,88 @@ h1.box1 {
       display: none;
     }
 
+html[data-theme='light'] header .box1 > h1 {
+      text-align: center;
+      font-size: 38px;
+      
+
+font-family: "Avenir Next" !important;
+    }
+    html[data-theme='dark'] header .box1 > h1 {
+      text-align: center;
+      font-size: 38px;
+
+font-family: "Avenir Next" !important;
+      padding: 0;
+    }
+
+
+
+    header .box2 {
+      display: none;
+    }
+html[data-theme='light'] header .box1 > p {
+  font-size: 25px;
+  text-align: center;
+  justify-content: center;
 }
+
+html[data-theme='dark'] header .box1 > p {
+  font-size: 25px;
+  text-align: center;
+  justify-content: center;
+}
+header .imgSet   {
+  padding-left: 50px;
+}
+header .imgSet > img {
+  
+  width: 3rem;
+  height: 3rem;
+}
+
+html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
+background-image: url(/anetabtc-landing/icons/moon.svg);
+width: 30px;
+height: 30px;
+background-size: 30px;                   
+margin-left: 100px;
+display: flex;
+}
+
+html[data-theme='light'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
+background-image: url(/anetabtc-landing/icons/sun.svg);
+width: 28px;
+height: 33px;
+background-size: 28px;
+margin-left: 100px;
+display: flex;
+}
+
+
+  html[data-theme='light'] footer .imgconf > img  {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 0;
+
+}
+
+
+html[data-theme='dark'] footer .imgconf > img  {
+  width: 30px;
+  height: 30px;
+   background-color: #fff;
+   border-radius: 10px;
+
+
+}
+
+footer .imgconf {
+ margin-left: -15px;
+}
+}
+
+
 
 
