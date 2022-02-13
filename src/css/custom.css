@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-    
+
   --ifm-color-primary: none ;
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
@@ -35,7 +35,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 .navbar {
  background-color: transparent !important;
- box-shadow: none; 
+ box-shadow: none;
  margin-top: -100px;
 }
 
@@ -148,7 +148,7 @@ height: 250px;
 
 
 div.block2 {
-  margin-top: 170px;  
+  margin-top: 170px;
 }
 
 div.col.kek1 {
@@ -157,18 +157,18 @@ div.col.kek1 {
     cursor: pointer;
     border-radius: 16px;
     text-decoration: none !important;
-    
+
   box-shadow: 0px 0px 99px rgba(118,118,118,0.16);
     padding: 1rem 0 !important;
-    
+
 }
 
 
 div.col.kek2 {
-  
+
   column-gap: 20px;
   margin: 0px auto;
-  
+
   border-radius: 25px;
 }
 
@@ -176,7 +176,7 @@ div.block3 {
   margin-top: 170px;
 }
 
-div.row.kek2 { 
+div.row.kek2 {
 
   border-radius: 25px;
   box-shadow: 0px 0px 99px rgba(118,118,118,0.16);
@@ -213,7 +213,7 @@ font-family: "Avenir Next" !important;
 
 
 html[data-theme='dark'] header .box1 > h1 {
-  
+
 font-size: 55px;
 text-align: left;
    background: -webkit-linear-gradient(45deg, #F0A5A4 33%, #9BB3F2 66%);
@@ -231,7 +231,7 @@ html[data-theme='dark'] header .box1 > p {
   text-align: left;
   font-family: "Avenir Next" !important;
   color: #fff;
-  
+
 
 }
 html[data-theme='light'] header .box1 > p {
@@ -376,19 +376,19 @@ html[data-theme='dark'] footer li {
 
 .toggleTrack_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
   opacity: 0;
-  
+
 }
 
 html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
-background-image: url(/anetabtc-landing/icons/moon.svg);
+background-image: url(/icons/moon.svg);
 width: 30px;
 height: 30px;
-background-size: 30px;                   
+background-size: 30px;
 margin-right: 10px;
 }
 
 html[data-theme='light'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
-background-image: url(/anetabtc-landing/icons/sun.svg);
+background-image: url(/icons/sun.svg);
 width: 28px;
 height: 33px;
 background-size: 28px;
@@ -426,7 +426,7 @@ line-height: 1.3;
 main .grid_team {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr ; 
+  grid-template-rows: 1fr 1fr ;
 padding: 0 5rem 3rem;
 gap: 36px 64px;
 margin-top: 150px;
@@ -522,7 +522,7 @@ font-size: 14px;
 main .grid_team_2 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
-  grid-template-rows: 1fr; 
+  grid-template-rows: 1fr;
 padding: 0 10rem;
 margin-left: 60px;
 }
@@ -554,7 +554,7 @@ right: 1100px;
 position: absolute;
 top: 2450px;
 opacity: 0.656;
-right: 1080px; 
+right: 1080px;
 }
 
 .ank5 {
@@ -562,7 +562,7 @@ position: absolute;
 display: block;
 top: 3300px;
 opacity: 0.656;
-left: 1070px; 
+left: 1070px;
 }
 
 .grid_footer_2 {
@@ -574,13 +574,13 @@ left: 1070px;
     padding: 0 7rem 3rem;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
-    
+
     gap: 4rem;
 
 }
 
 .guide {
-    
+
     color: var(--ifm-font-color-base);
     cursor: pointer;
     border-radius: 16px;
@@ -594,7 +594,7 @@ height: 2fr;
 }
 
 .guide1 {
-   
+
     color: var(--ifm-font-color-base);
     cursor: pointer;
     border-radius: 16px;
@@ -617,7 +617,7 @@ height: 2fr;
 .imgSave > img{
 width: 301px;
 
-height: 301px; 
+height: 301px;
 }
 
 
@@ -642,7 +642,7 @@ html[data-theme='light'] .guide > img {
 }
 
 .guide > p {
-  
+
   align-items: center;
    justify-content: center;
    display: flex;
@@ -674,7 +674,7 @@ font-family: "Avenir Next" !important;
     }
 
 
-   
+
 
 
     footer .grid_footer {
@@ -688,7 +688,7 @@ font-family: "Avenir Next" !important;
     }
 
     footer .foot2 {
-  
+
     margin: 0px;
     padding: 0px;
     }
@@ -730,19 +730,19 @@ font-family: "Avenir Next" !important;
     }
 .textSh3 {
 line-height: 1.5;
-       
+
 }
     div.textSh3 > h1{
       text-align: center;
       font-size: 38px;
       padding: 0;
-    } 
+    }
     div.textSh3 > p{
       text-align: center;
       font-size: 18px;
       padding: 25px;
-     
-    } 
+
+    }
 
 
 header .grid_label {
@@ -781,7 +781,7 @@ font-family: "Avenir Next" !important;
 font-family: "Avenir Next" !important;
       padding: 0 0;
   }
-  
+
    .team_back {
     height: 2500px;
   }
@@ -800,7 +800,7 @@ font-family: "Avenir Next" !important;
 html[data-theme='light'] header .box1 > h1 {
       text-align: center;
       font-size: 38px;
-      
+
 
 font-family: "Avenir Next" !important;
     }
@@ -832,22 +832,22 @@ header .imgSet   {
   padding-left: 50px;
 }
 header .imgSet > img {
-  
+
   width: 3rem;
   height: 3rem;
 }
 
 html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
-background-image: url(/anetabtc-landing/icons/moon.svg);
+background-image: url(/icons/moon.svg);
 width: 30px;
 height: 30px;
-background-size: 30px;                   
+background-size: 30px;
 margin-left: 100px;
 display: flex;
 }
 
 html[data-theme='light'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {
-background-image: url(/anetabtc-landing/icons/sun.svg);
+background-image: url(/icons/sun.svg);
 width: 28px;
 height: 33px;
 background-size: 28px;
@@ -878,7 +878,3 @@ footer .imgconf {
  margin-left: -15px;
 }
 }
-
-
-
-

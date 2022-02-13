@@ -64,14 +64,9 @@ export default function Home() {
           </div>
 
           <div class="block3"></div>
-<<<<<<< HEAD
-          <div className="textSh3"><h1>Our partners</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano</p></div>
-       <div className="section1">
-=======
           <div className="textSh3"><h1>Our partners</h1><p>Learn more about our partners who are contributing to decentralized finance.</p></div>
-       <div className="section1"> 
->>>>>>> f963a918d038ad0f5253aa1de843c55060fe2eb8
-        <div className="guides">
+          <div className="section1">
+          <div className="guides">
 <div className="guide"><img src={'/anetabtc-landing/imgphoto/ergodex.svg'}/>
 
 </div>
@@ -93,13 +88,8 @@ export default function Home() {
 
 <div className="foot1"><img src={'/anetabtc-landing/img/footerlogo.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlock the value on their Bitcoin on Ergo and Cardano.</div>
 
-<<<<<<< HEAD
 <div className="foot2"><ul><b>anetaBTC</b>
-<li><a href="/anetabtc-landing/team" class="active">Team</a></li>
-=======
-<div className="foot2"><ul><b>anetaBTC</b> 
 <li><a href="/team" class="active">Team</a></li>
->>>>>>> f963a918d038ad0f5253aa1de843c55060fe2eb8
 <li><a href="/users/123" class="active">Docs</a></li>
 <li><a href="/users/123" class="active">News & Updates</a></li>
 <li><a href="/users/123" class="active">FAQ</a></li>
