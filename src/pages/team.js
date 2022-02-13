@@ -34,9 +34,9 @@ export default function Home() {
       <main className="team_back">
       
 <div className="ank">
-      <img src={'/anetabtc-landing/light/angel1.svg'}  width="402px" height="402px" className="ank1"/>
-      <img src={'/anetabtc-landing/light/bubble.svg'}  width="402px" height="402px" className="ank3"/>
-      <img src={'/anetabtc-landing/light/angel2.svg'}  width="400px" height="400px" className="ank2"/></div>
+      <img src={'/light/angel1.svg'}  width="402px" height="402px" className="ank1"/>
+      <img src={'/light/bubble.svg'}  width="402px" height="402px" className="ank3"/>
+      <img src={'/light/angel2.svg'}  width="400px" height="400px" className="ank2"/></div>
           <div className="team_block"><h1>Meet our Team.</h1>
 <div className="grid_team"> 
 
@@ -52,10 +52,10 @@ export default function Home() {
 <div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h3><em>Dair Alayev</em></h3><br />Back-end Developer<p >Astana IT University</p ></div>
 <div className="list_team"> <img src={'/anetabtc-landing/avatar/max.png'} /><p /><h3><em>Max Ward</em></h3><br />UI/UX<p>Boston University</p ></div>
 
-<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Darkhan Baibulat</em><br />Developer</h5><p >Astana IT University</p ></div>
-<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Olzhas Abdykalykov </em><br />Developer</h5><p >Astana IT University</p ></div>
-<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Kalbek Saduakassov</em><br />Developer</h5><p >Astana IT University</p ></div>
-<div className="list_team"> <img src={'/anetabtc-landing/avatar/dair.png'} /><p /><h5><em>Aisha Kozhamseitova</em><br />Developer</h5><p>Astanta IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/darkhan.svg'} /><p /><h5><em>Darkhan Baibulat</em><br />Developer</h5><p >Astana IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/olzhas.svg'} /><p /><h5><em>Olzhas Abdykalykov </em><br />Developer</h5><p >Astana IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/kalbek.svg'} /><p /><h5><em>Kalbek Saduakassov</em><br />Developer</h5><p >Astana IT University</p ></div>
+<div className="list_team"> <img src={'/anetabtc-landing/avatar/aisha.svg'} /><p /><h5><em>Aisha Kozhamseitova</em><br />Developer</h5><p>Astanta IT University</p ></div>
 </div>
 <div className="grid_team_2">
 <div className="list_team2"> <img src={'/anetabtc-landing/avatar/hayato.png'} />
@@ -74,7 +74,7 @@ export default function Home() {
 
 <div className="grid_footer_2">
 
-<div className="foot1"><img src={'/anetabtc-landing/light/logoAneta.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
+<div className="foot1"><img src={'/light/logoAneta.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
 
 <div className="foot2"><ul><b>anetaBTC</b> 
 <li><a href="/users/123" class="active">Team</a></li>
@@ -99,10 +99,10 @@ export default function Home() {
 
 <div className="foot5">
 <div className="imgconf">
-<img src={'/anetabtc-landing/icons/discord.svg'} />
-<img src={'/anetabtc-landing/icons/twitter.svg'} />
-<img src={'/anetabtc-landing/icons/medium.svg'} />
-<img src={'/anetabtc-landing/icons/telegram.svg'} />
+<img src={'/icons/discord.svg'} />
+<img src={'/icons/twitter.svg'} />
+<img src={'/icons/medium.svg'} />
+<img src={'/icons/telegram.svg'} />
 </div>
 
 <b>
