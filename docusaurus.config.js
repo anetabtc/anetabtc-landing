@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Decentralized, On Chain Wrapped Bitcoin',
   tagline: 'Fully On-chain Bitcoin on Ergo and Cardano.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  url: 'https://anetabtc.github.io',
+  baseUrl: '/anetabtc-landing/',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'anetaBTC', // Usually your GitHub org/user name.
-  projectName: 'anetaBTC', // Usually your repo name.
+  organizationName: 'anetabtc', // Usually your GitHub org/user name.
+  projectName: 'anetabtc-landing', // Usually your repo name.
 
   presets: [
     [
@@ -26,7 +26,7 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -43,9 +43,9 @@ const config = {
           alt: 'anetaBTC logo',
           src: 'img/anetaBTC.png',
 
-        
-        }	
-        
+
+        }
+
         },
         colorMode: {
         defaultMode: 'light',
@@ -54,15 +54,15 @@ const config = {
           darkIcon: '🥲',
           darkIconStyle: {
             marginLeft: '2px',
-          }, 
+          },
           lightIcon: '🥲',
           lightIconStyle: {
             marginLeft: '1px',
           },
       },
     },
-        
-      
+
+
 
 
       prism: {

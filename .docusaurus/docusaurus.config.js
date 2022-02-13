@@ -1,23 +1,23 @@
 export default {
   "title": "Decentralized, On Chain Wrapped Bitcoin",
   "tagline": "Fully On-chain Bitcoin on Ergo and Cardano.",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "url": "https://anetabtc.github.io",
+  "baseUrl": "/anetabtc-landing/",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "anetaBTC",
-  "projectName": "anetaBTC",
+  "organizationName": "anetabtc",
+  "projectName": "anetabtc-landing",
   "presets": [
     [
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/darkhanbaibulat/Desktop/project/aneta/anetabtc-landing/sidebars.js",
+          "sidebarPath": "/home/talgat/github/anetabtc/anetabtc-landing/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/darkhanbaibulat/Desktop/project/aneta/anetabtc-landing/src/css/custom.css"
+          "customCss": "/home/talgat/github/anetabtc/anetabtc-landing/src/css/custom.css"
         }
       }
     ]

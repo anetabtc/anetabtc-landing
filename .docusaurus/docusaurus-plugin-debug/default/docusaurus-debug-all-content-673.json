@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/darkhanbaibulat/Desktop/project/aneta/anetabtc-landing/sidebars.js",
-          "contentPath": "/Users/darkhanbaibulat/Desktop/project/aneta/anetabtc-landing/docs",
-          "contentPathLocalized": "/Users/darkhanbaibulat/Desktop/project/aneta/anetabtc-landing/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/talgat/github/anetabtc/anetabtc-landing/sidebars.js",
+          "contentPath": "/home/talgat/github/anetabtc/anetabtc-landing/docs",
+          "contentPathLocalized": "/home/talgat/github/anetabtc/anetabtc-landing/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",

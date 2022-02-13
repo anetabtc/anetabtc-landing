@@ -26,9 +26,9 @@ function HomepageHeader() {
 <img src={'/anetabtc-landing/imgphoto/telegramwh.svg'} /></div>
 
  </div>
-<div className="box2"><img src={require('/anetabtc-landing/img/angel3.svg')} /></div>
+<div className="box2"><img src={'/anetabtc-landing/img/angel3.svg'} /></div>
       </div>
-       
+
     </header>
 
   );
@@ -40,7 +40,7 @@ export default function Home() {
     <Layout
       title={`anetaBTC wallet`}
       description="Description will go into a meta tag in <head />">
-      
+
           <HomepageHeader />
       <main>
       <div className="ank">
@@ -49,7 +49,7 @@ export default function Home() {
  <div className="textSh1">
 <h1>Decentralized, On Chain BTC</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano</p>
  </div>
-          <div className="section1"> 
+          <div className="section1">
         <div className="guides">
 <div className="guide1"><div  className="imgSave">
 <img src={'/anetabtc-landing/img/f1.svg'}/> </div><p><h3>Wrap Bitcoin on Ergo and Cardano</h3></p><p>Guaranteed and verifiable through transparent and accessible smart contracts. </p>
@@ -65,20 +65,20 @@ export default function Home() {
 
           <div class="block3"></div>
           <div className="textSh3"><h1>Our partners</h1><p>A protocol to unlock the value of Bitcoin on Ergo and Cardano</p></div>
-       <div className="section1"> 
+       <div className="section1">
         <div className="guides">
 <div className="guide"><img src={'/anetabtc-landing/imgphoto/ergodex.svg'} /></div>
 <div className="guide"> <img src={'/anetabtc-landing/imgphoto/kyberswap.svg'} /></div>
 <div className="guide"><img src={'/anetabtc-landing/imgphoto/minswap.svg'} /> </div>
         </div>
           </div>
-          <div className="block2"> 
+          <div className="block2">
           <div className="textSh1"><h1>Join Our Community</h1><p>Chat with our team and community members as anetaBTC brings DeFi to Ergo and Cardano.</p></div>
           <LandingSocials />  </div><div className="bord1"></div>
 
 <div class="block3"></div>
 
-          
+
       </main>
 <footer className="foot1">
 
@@ -86,7 +86,7 @@ export default function Home() {
 
 <div className="foot1"><img src={'/anetabtc-landing/img/footerlogo.svg'} /><br />anetaBTC is a decentralized, secure protocol that allows users to unlck the value on thier Bitcoin on Ergo and Cardano.</div>
 
-<div className="foot2"><ul><b>anetaBTC</b> 
+<div className="foot2"><ul><b>anetaBTC</b>
 <li><a href="/anetabtc-landing/team" class="active">Team</a></li>
 <li><a href="/users/123" class="active">Docs</a></li>
 <li><a href="/users/123" class="active">News & Updates</a></li>
