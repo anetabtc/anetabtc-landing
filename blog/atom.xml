@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anetabtc.github.io/blog</id>
-    <title>Decentralized, On Chain Wrapped Bitcoin Blog</title>
+    <title>anetaBTC Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anetabtc.github.io/blog"/>
-    <subtitle>Decentralized, On Chain Wrapped Bitcoin Blog</subtitle>
+    <subtitle>anetaBTC Blog</subtitle>
     <icon>https://anetabtc.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
