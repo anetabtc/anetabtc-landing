@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
     <id>https://anetabtc.github.io/blog</id>
     <title>Decentralized, On Chain Wrapped Bitcoin Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
