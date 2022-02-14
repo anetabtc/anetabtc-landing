@@ -19,7 +19,7 @@
 
 @font-face {
   font-family: 'Avenir Next';
-  src: url("http://www.yoursite.com/fonts/Avenir_Next.otf"); /* File to be stored at your site */
+  src: url("https://www.yoursite.com/fonts/Avenir_Next.otf"); /* File to be stored at your site */
   }
 
 .docusaurus-highlight-code-line {

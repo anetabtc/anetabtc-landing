@@ -1,5 +1,5 @@
 {
-  "/anetabtc-landing/blog-60c": {
+  "/blog-520": {
     "component": "a6aa9e1f",
     "sidebar": "814f3328",
     "items": [
@@ -16,33 +16,33 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "eae2ce02"
+    "metadata": "b2b675dd"
   },
-  "/anetabtc-landing/blog/archive-e10": {
+  "/blog/archive-f4c": {
     "component": "9e4087bc",
-    "archive": "1e3618ef"
+    "archive": "b2f554cd"
   },
-  "/anetabtc-landing/blog/first-blog-post-15c": {
+  "/blog/first-blog-post-6c7": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/anetabtc-landing/blog/long-blog-post-9f9": {
+  "/blog/long-blog-post-f06": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/anetabtc-landing/blog/mdx-blog-post-90f": {
+  "/blog/mdx-blog-post-bee": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/anetabtc-landing/blog/tags-fc6": {
+  "/blog/tags-e13": {
     "component": "01a85c17",
     "sidebar": "814f3328",
-    "tags": "59b8b405"
+    "tags": "a7023ddc"
   },
-  "/anetabtc-landing/blog/tags/docusaurus-3e2": {
+  "/blog/tags/docusaurus-ddf": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -59,9 +59,9 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "30df149d"
+    "metadata": "a80da1cf"
   },
-  "/anetabtc-landing/blog/tags/facebook-d71": {
+  "/blog/tags/facebook-ede": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -69,9 +69,9 @@
         "content": "7661071f"
       }
     ],
-    "metadata": "2df4c843"
+    "metadata": "031793e1"
   },
-  "/anetabtc-landing/blog/tags/hello-45f": {
+  "/blog/tags/hello-4c2": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -82,9 +82,9 @@
         "content": "8717b14a"
       }
     ],
-    "metadata": "2a97a084"
+    "metadata": "30a24c52"
   },
-  "/anetabtc-landing/blog/tags/hola-701": {
+  "/blog/tags/hola-752": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -92,62 +92,62 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "98482e6e"
+    "metadata": "e16015ca"
   },
-  "/anetabtc-landing/blog/welcome-7f2": {
+  "/blog/welcome-bfa": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/anetabtc-landing/markdown-page-b70": {
+  "/markdown-page-be1": {
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/anetabtc-landing/team-104": {
+  "/team-c1d": {
     "component": "859cc09f",
     "config": "5e9f5e1a"
   },
-  "/anetabtc-landing/docs-8d2": {
+  "/docs-87d": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/anetabtc-landing/docs/intro-78b": {
+  "/docs/intro-aed": {
     "component": "17896441",
     "content": "0e384e19"
   },
-  "/anetabtc-landing/docs/tutorial-basics/congratulations-f01": {
+  "/docs/tutorial-basics/congratulations-793": {
     "component": "17896441",
     "content": "822bd8ab"
   },
-  "/anetabtc-landing/docs/tutorial-basics/create-a-blog-post-775": {
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
     "component": "17896441",
     "content": "533a09ca"
   },
-  "/anetabtc-landing/docs/tutorial-basics/create-a-document-c67": {
+  "/docs/tutorial-basics/create-a-document-c2d": {
     "component": "17896441",
     "content": "1e4232ab"
   },
-  "/anetabtc-landing/docs/tutorial-basics/create-a-page-037": {
+  "/docs/tutorial-basics/create-a-page-f44": {
     "component": "17896441",
     "content": "5c868d36"
   },
-  "/anetabtc-landing/docs/tutorial-basics/deploy-your-site-f90": {
+  "/docs/tutorial-basics/deploy-your-site-e46": {
     "component": "17896441",
     "content": "f55d3e7a"
   },
-  "/anetabtc-landing/docs/tutorial-basics/markdown-features-38e": {
+  "/docs/tutorial-basics/markdown-features-4b7": {
     "component": "17896441",
     "content": "18c41134"
   },
-  "/anetabtc-landing/docs/tutorial-extras/manage-docs-versions-96f": {
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "component": "17896441",
     "content": "dff1c289"
   },
-  "/anetabtc-landing/docs/tutorial-extras/translate-your-site-f5a": {
+  "/docs/tutorial-extras/translate-your-site-2d7": {
     "component": "17896441",
     "content": "e44a2883"
   },
-  "/anetabtc-landing/-002": {
+  "/-deb": {
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   }

@@ -2,7 +2,7 @@ export default {
   "title": "Decentralized, On Chain Wrapped Bitcoin",
   "tagline": "Fully On-chain Bitcoin on Ergo and Cardano.",
   "url": "https://anetabtc.github.io",
-  "baseUrl": "/anetabtc-landing/",
+  "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",

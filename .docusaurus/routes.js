@@ -4,133 +4,133 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/anetabtc-landing/blog',
-    component: ComponentCreator('/anetabtc-landing/blog','60c'),
+    path: '/blog',
+    component: ComponentCreator('/blog','520'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/archive',
-    component: ComponentCreator('/anetabtc-landing/blog/archive','e10'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive','f4c'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/first-blog-post',
-    component: ComponentCreator('/anetabtc-landing/blog/first-blog-post','15c'),
+    path: '/blog/first-blog-post',
+    component: ComponentCreator('/blog/first-blog-post','6c7'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/long-blog-post',
-    component: ComponentCreator('/anetabtc-landing/blog/long-blog-post','9f9'),
+    path: '/blog/long-blog-post',
+    component: ComponentCreator('/blog/long-blog-post','f06'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/mdx-blog-post',
-    component: ComponentCreator('/anetabtc-landing/blog/mdx-blog-post','90f'),
+    path: '/blog/mdx-blog-post',
+    component: ComponentCreator('/blog/mdx-blog-post','bee'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/tags',
-    component: ComponentCreator('/anetabtc-landing/blog/tags','fc6'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags','e13'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/tags/docusaurus',
-    component: ComponentCreator('/anetabtc-landing/blog/tags/docusaurus','3e2'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus','ddf'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/tags/facebook',
-    component: ComponentCreator('/anetabtc-landing/blog/tags/facebook','d71'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook','ede'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/tags/hello',
-    component: ComponentCreator('/anetabtc-landing/blog/tags/hello','45f'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello','4c2'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/tags/hola',
-    component: ComponentCreator('/anetabtc-landing/blog/tags/hola','701'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola','752'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/blog/welcome',
-    component: ComponentCreator('/anetabtc-landing/blog/welcome','7f2'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome','bfa'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/markdown-page',
-    component: ComponentCreator('/anetabtc-landing/markdown-page','b70'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page','be1'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/team',
-    component: ComponentCreator('/anetabtc-landing/team','104'),
+    path: '/team',
+    component: ComponentCreator('/team','c1d'),
     exact: true
   },
   {
-    path: '/anetabtc-landing/docs',
-    component: ComponentCreator('/anetabtc-landing/docs','8d2'),
+    path: '/docs',
+    component: ComponentCreator('/docs','87d'),
     routes: [
       {
-        path: '/anetabtc-landing/docs/intro',
-        component: ComponentCreator('/anetabtc-landing/docs/intro','78b'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro','aed'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-basics/congratulations','f01'),
+        path: '/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-basics/create-a-blog-post','775'),
+        path: '/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-basics/create-a-document','c67'),
+        path: '/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-basics/create-a-page','037'),
+        path: '/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-basics/deploy-your-site','f90'),
+        path: '/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-basics/markdown-features','38e'),
+        path: '/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-extras/manage-docs-versions','96f'),
+        path: '/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','fdd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/anetabtc-landing/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/anetabtc-landing/docs/tutorial-extras/translate-your-site','f5a'),
+        path: '/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/anetabtc-landing/',
-    component: ComponentCreator('/anetabtc-landing/','002'),
+    path: '/',
+    component: ComponentCreator('/','deb'),
     exact: true
   },
   {
