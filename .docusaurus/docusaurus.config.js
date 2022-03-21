@@ -13,11 +13,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/darkhanbaibulat/Desktop/anetabtc-landing/sidebars.js",
+          "sidebarPath": "/Users/darkhanbaibulat/Desktop/landing/anetabtc-landing/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/darkhanbaibulat/Desktop/anetabtc-landing/src/css/custom.css"
+          "customCss": "/Users/darkhanbaibulat/Desktop/landing/anetabtc-landing/src/css/custom.css"
         }
       }
     ]

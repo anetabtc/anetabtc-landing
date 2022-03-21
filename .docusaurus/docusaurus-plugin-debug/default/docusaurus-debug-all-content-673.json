@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/darkhanbaibulat/Desktop/anetabtc-landing/sidebars.js",
-          "contentPath": "/Users/darkhanbaibulat/Desktop/anetabtc-landing/docs",
-          "contentPathLocalized": "/Users/darkhanbaibulat/Desktop/anetabtc-landing/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/darkhanbaibulat/Desktop/landing/anetabtc-landing/sidebars.js",
+          "contentPath": "/Users/darkhanbaibulat/Desktop/landing/anetabtc-landing/docs",
+          "contentPathLocalized": "/Users/darkhanbaibulat/Desktop/landing/anetabtc-landing/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
@@ -537,6 +537,11 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/helper",
+        "source": "@site/src/pages/helper.js"
+      },
+      {
+        "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
@@ -544,6 +549,11 @@
         "type": "mdx",
         "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/nft",
+        "source": "@site/src/pages/nft.js"
       },
       {
         "type": "jsx",

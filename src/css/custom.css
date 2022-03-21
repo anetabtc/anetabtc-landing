@@ -52,6 +52,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 html[data-theme='light'] header.kek1  {
   height: 1120px;
  background: linear-gradient(to bottom, transparent, #fff),  url(/img/anetaBackground.jpg);
+ background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 255)), url(/img/anetaBackground.jpg);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -229,6 +230,7 @@ html[data-theme='light'] header .box1 > h1 {
 font-size: 57px;
 text-align: left;
    background: -webkit-linear-gradient(45deg, #34708d 66%, #46729b 33%);
+
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
@@ -980,6 +982,8 @@ header .imgSet > img {
 html[data-theme='light'] header.kek1  {
   height: 860px;
  background: linear-gradient(to bottom, transparent, #fff),  url(/img/anetaBackground.jpg);
+
+ background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 255)), url(/img/anetaBackground.jpg);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
         -moz-background-size: cover;
