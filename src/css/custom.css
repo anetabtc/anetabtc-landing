@@ -326,18 +326,19 @@ margin-top: -10px;
 }
 
 footer .foot1 > img {
-  width: 60px;
+  width: 40px;
   height: 40px;
 display: inline-block;
-margin-left: -13px;
-padding-bottom: 2px;
+padding-bottom: -20px;
+
 }
 
 footer .foot1 > .ph1  {
   width: 170px;
   height: 30px;
   display: inline-block;
-margin-left: -12px;
+margin-top: -50px;
+
 }
 
 html[data-theme='light'] footer .foot1 > .ph1  {
@@ -550,7 +551,7 @@ footer .grid_footer_2 {
 
 html[data-theme='light'] main.team_back {
 
- background: linear-gradient(to bottom, transparent, #fff),  url(/light/background.png);
+ background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 255)),  url(/light/background.png);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -560,7 +561,7 @@ html[data-theme='light'] main.team_back {
 
 html[data-theme='dark'] main.team_back {
 
- background: linear-gradient(to bottom, transparent, #162e3f),  url(/team/background2.png);
+ background: linear-gradient(to bottom, #3f5574, #162e3f),  url(/team/background2.png);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -799,7 +800,7 @@ font-family: "Avenir Next" !important;
     }
 
     footer .foot1 > img{
-      width: 70px;
+      width: 50px;
 
       height: 50px;
       margin-left: -10px;
@@ -808,7 +809,7 @@ font-family: "Avenir Next" !important;
 
     footer .foot1 > .ph1{
       width: 200px;
-      margin-left: -12px;
+      margin-left: 0px;
 
       display: inline-block;
     }
@@ -1000,6 +1001,8 @@ background: linear-gradient(to bottom, transparent, #18191a),  url(/dark/dark_ba
         -o-background-size: cover;
         background-size: cover;
 }
+
+
 
 
 /* html[data-theme='dark'] .toggle_node_modules-\@docusaurus-theme-classic-lib-next-theme-Toggle-styles-module {

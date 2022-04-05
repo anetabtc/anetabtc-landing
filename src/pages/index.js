@@ -90,11 +90,11 @@ export default function Home() {
 <div className="foot1"><img src={'/imgphoto/rectangle.png'} /><img src={'/imgphoto/Rectangle1.png'} className="ph1" /><br />anetaBTC is a decentralized, secure protocol that allows users to unlock the value of their Bitcoin on Ergo and Cardano.</div>
 
 <div className="foot2"><ul><b>anetaBTC</b>
-<li><a href="http://team.anetabtc.io/" class="active" target="_blank">Team</a></li>
+<li><a href="/team" class="active" target="_blank">Team</a></li>
 <li><a href="https://docs.anetabtc.io/" class="active" target="_blank">Docs</a></li>
 
 <li><a href="https://medium.com/@anetaBTC" class="active" target="_blank">News & Updates</a></li>
-<li><a href="http://discord.gg/anetabtc" class="active" target="_blank">FAQ</a></li>
+<li><a href="https://docs.anetabtc.io/docs/user-guides/Liso/liso-faq" class="active" target="_blank">FAQ</a></li>
 <li><a href="https://medium.com/@anetaBTC/neta-tokenomics-55629989de2b" class="active" target="_blank">Tokenomics</a></li>
 </ul></div>
 
