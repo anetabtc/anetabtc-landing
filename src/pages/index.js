@@ -92,10 +92,11 @@ export default function Home() {
 <div className="foot2"><ul><b>anetaBTC</b>
 <li><a href="/team" class="active" target="_blank">Team</a></li>
 <li><a href="https://docs.anetabtc.io/" class="active" target="_blank">Docs</a></li>
-
+<li><a href="https://play.google.com/store/apps/details?id=io.anetabtc.android" class="active" target="_blank">Aneta Wallet</a></li>
 <li><a href="https://medium.com/@anetaBTC" class="active" target="_blank">News & Updates</a></li>
 <li><a href="https://docs.anetabtc.io/docs/user-guides/Liso/liso-faq" class="active" target="_blank">FAQ</a></li>
 <li><a href="https://medium.com/@anetaBTC/neta-tokenomics-55629989de2b" class="active" target="_blank">Tokenomics</a></li>
+
 </ul></div>
 
 <div className="foot3"><ul> <b>Resources</b>
