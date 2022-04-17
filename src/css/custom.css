@@ -551,7 +551,7 @@ footer .grid_footer_2 {
 
 html[data-theme='light'] main.team_back {
 
- background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 255)),  url(/light/background.png);
+ background: linear-gradient(to bottom, rgba(176,194,236,1), rgba(255, 255, 255, 255)),  url(/light/background.png);
  background-repeat: no-repeat;
 -webkit-background-size: cover;
         -moz-background-size: cover;
