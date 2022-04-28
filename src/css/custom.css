@@ -720,7 +720,15 @@ margin-top: 50px;
 .guide1 > .text5 {
   margin-top: 25px;
   padding: 0 2rem;
-  font-size: 16px;
+  font-size: 17px;
+  justify-content: center;
+  text-align: center;
+}
+
+.guide1 > .text6 {
+  margin-top: 25px;
+  padding: 0 2rem;
+  font-size: 17px;
   justify-content: center;
   text-align: center;
 }
