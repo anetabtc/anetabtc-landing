@@ -13,11 +13,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/darkhanbaibulat/Desktop/Desktop - Darkhan’s MacBook Pro/untitled folder/anetabtc-landing/sidebars.js",
+          "sidebarPath": "/Users/darkhanbaibulat/Desktop/untitled folder/anetabtc-landing/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/darkhanbaibulat/Desktop/Desktop - Darkhan’s MacBook Pro/untitled folder/anetabtc-landing/src/css/custom.css"
+          "customCss": "/Users/darkhanbaibulat/Desktop/untitled folder/anetabtc-landing/src/css/custom.css"
         }
       }
     ]

@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/darkhanbaibulat/Desktop/Desktop - Darkhan’s MacBook Pro/untitled folder/anetabtc-landing/sidebars.js",
-          "contentPath": "/Users/darkhanbaibulat/Desktop/Desktop - Darkhan’s MacBook Pro/untitled folder/anetabtc-landing/docs",
-          "contentPathLocalized": "/Users/darkhanbaibulat/Desktop/Desktop - Darkhan’s MacBook Pro/untitled folder/anetabtc-landing/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/darkhanbaibulat/Desktop/untitled folder/anetabtc-landing/sidebars.js",
+          "contentPath": "/Users/darkhanbaibulat/Desktop/untitled folder/anetabtc-landing/docs",
+          "contentPathLocalized": "/Users/darkhanbaibulat/Desktop/untitled folder/anetabtc-landing/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
